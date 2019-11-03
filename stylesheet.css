@@ -1,0 +1,53 @@
+.me {
+    color:blueviolet;
+    font-family: 'Pacifico', cursive;
+}
+
+.one {
+    color:lightgreen;
+    font-family: 'Pacifico', cursive;
+}
+
+.two {
+    color:lightpink;
+    font-family: 'Pacifico', cursive;
+}
+
+.three {
+    color: salmon;
+    font-family: 'Pacifico', cursive;
+}
+
+.four {
+    color:lightseagreen;
+    font-family: 'Pacifico', cursive;
+}
+
+.card-title {
+    color: Red;
+    font-family: 'Kaushan Script', cursive;
+}
+
+.card-text {
+    color:rgb(60, 173, 243);
+    font-family: 'Kaushan Script', cursive;
+}
+
+.cardmb-3 {
+    background-color: lightyellow;
+}
+
+.no {
+    background-color: rgb(245, 241, 241);
+    margin: 10px;
+}
+
+.head {
+    color: red;
+    font-family: 'Architects Daughter', cursive;
+}
+
+.form-group {
+    color:hotpink;
+    font-family: 'Chewy', cursive;
+}
